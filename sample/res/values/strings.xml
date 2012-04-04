@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GooglePlayHelper Sample</string>
+    <string name="details">Details</string>
+    <string name="search">Search</string>
+    <string name="publisher">Publisher</string>
+    <string name="text_hint">Package, search or publisher</string>
+    <string name="open">Open</string>
+    <string name="about">About</string>
+    <string name="website_url">https://github.com/pierrre/Android-GooglePlayHelper</string>
+
+</resources>
