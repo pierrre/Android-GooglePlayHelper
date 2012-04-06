@@ -31,5 +31,5 @@ GooglePlayHelper.publisher(this, "Pierre Durand");
 
 - Email: pierredurand@gmail.com
 - Twitter: [@pierredurand87](https://twitter.com/pierredurand87)
-- Google+: [Pierre Duraand](https://plus.google.com/115978530878583279430)
+- Google+: [Pierre Durand](https://plus.google.com/115978530878583279430)
 - GitHub: [pierrre](https://github.com/pierrre)
